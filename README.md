@@ -1,5 +1,9 @@
-# Concatenar Cadenas de Caracteres en Python
+# Mad Libs en Python
 
-Este proyecto demuestra cómo manejar y concatenar cadenas de texto en Python, utilizando diferentes métodos como el operador de concatenación, `.format()`, y F-Strings.
+Este proyecto es un divertido juego en Python llamado **Mad Libs**, donde el usuario ingresa palabras (adjetivos, verbos y sustantivos) para completar una frase de forma creativa. La oración final se genera dinámicamente según las palabras ingresadas, creando resultados únicos y entretenidos.
 
-Además, incluye un pequeño juego interactivo llamado **Mad Libs**, en el que el usuario completa una frase con palabras que ingresa, creando resultados divertidos y personalizados.
+## Conceptos Utilizados
+
+- **Funciones**: Se utiliza `input()` para solicitar palabras al usuario que completarán la frase.
+- **F-Strings**: Se emplean cadenas formateadas (`f-strings`) para crear la frase final con las palabras ingresadas.
+- **Variables**: El programa guarda las palabras ingresadas en variables, que luego se usan para construir la oración.
